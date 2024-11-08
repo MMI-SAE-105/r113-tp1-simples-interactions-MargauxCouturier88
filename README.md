@@ -14,6 +14,7 @@ Faire dans la console les commandes suivantes :
 
 ![](/assets/img/changer-la-couleur-du-texte.png)
 
+
 ### Réagir à un click
 
 Faire dans la console les commandes suivantes :
@@ -45,3 +46,4 @@ Les déclarations de variables doivent être précédées de `const` .
 Recharger la page et tester le click sur le bouton et les 'H2'.
 
 ** Ne pas oublier de "Commit" et "Push" pour rendre **
+
